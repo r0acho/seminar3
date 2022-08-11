@@ -1,0 +1,15 @@
+D:\GB\C#\2820\seminar3\task17\bin\Debug\net6.0\task17.exe
+D:\GB\C#\2820\seminar3\task17\bin\Debug\net6.0\task17.deps.json
+D:\GB\C#\2820\seminar3\task17\bin\Debug\net6.0\task17.runtimeconfig.json
+D:\GB\C#\2820\seminar3\task17\bin\Debug\net6.0\task17.dll
+D:\GB\C#\2820\seminar3\task17\bin\Debug\net6.0\ref\task17.dll
+D:\GB\C#\2820\seminar3\task17\bin\Debug\net6.0\task17.pdb
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.csproj.AssemblyReference.cache
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.AssemblyInfoInputs.cache
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.AssemblyInfo.cs
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.csproj.CoreCompileInputs.cache
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.dll
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\ref\task17.dll
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.pdb
+D:\GB\C#\2820\seminar3\task17\obj\Debug\net6.0\task17.genruntimeconfig.cache
